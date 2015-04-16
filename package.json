@@ -11,8 +11,10 @@
   ],
   "dependencies": {
     "body-parser": "^1.12.2",
+    "cheerio": "^0.19.0",
     "express": "4.12.3",
-    "mongodb": "2.0.14"
+    "mongoose": "^4.0.1",
+    "request": "^2.55.0"
   },
   "devDependencies": {},
   "private": true,
