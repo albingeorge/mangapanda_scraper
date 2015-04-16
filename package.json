@@ -1,0 +1,20 @@
+{
+  "name": "unbxd_incremental_feed_system",
+  "version": "0.0.1",
+  "description": "A system which does an incremental feed upload every 10 minutes",
+  "author": "Albin George",
+  "contributors": [
+    {
+      "name": "Albin George",
+      "email": "albinin0002@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "4.12.3",
+    "mongodb": "2.0.14"
+  },
+  "devDependencies": {},
+  "private": true,
+  "license": "MIT"
+}
