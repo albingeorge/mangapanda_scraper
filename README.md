@@ -1,8 +1,8 @@
-#Scrape mangapanda
+# Scrape mangapanda
 
 Pass the initial url to a manga page(eg: http://www.mangapanda.com/93-1-1/naruto/chapter-1.html)
 
-##Endpoints
+## Endpoints
 "/scrape"
 
 Body:
